@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These 2 create a function list, components of which would be used to calculate and cache a matrix's inverse
 
 ## Create a list of functions to be called to calculate the inverse of matrix x
 
